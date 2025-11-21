@@ -24,8 +24,8 @@ function Projects() {
               isBlog={false}
               title="Capling"
               description="AI-powered personal finance app with gamified dinosaur companion. Uses Google Gemini to analyze transactions, classify spending habits, and generate personalized financial lessons. Features XP-based leveling, transaction justification system, and automatic budget adjustment. Built with Next.js, TypeScript, Supabase, and Tailwind CSS."
-              ghLink="https://github.com/tanish0310/Capling"
-              demoLink="https://capling.vercel.app"
+              ghLink="https://github.com/tanish0310/capling.ai"
+              demoLink="https://capling-ai.vercel.app"
             />
           </Col>
 
