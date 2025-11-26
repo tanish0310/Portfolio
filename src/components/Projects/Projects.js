@@ -45,7 +45,7 @@ function Projects() {
               imgPath={placement}
               isBlog={false}
               title="Campus Placement Portal"
-              description="A full-stack web platform that automates campus placements by connecting students, recruiters, and administrators. Developed using Django, React, and MySQL, it provides secure logins, resume uploads, job management, and application tracking — ensuring a seamless, transparent, and efficient campus recruitment process"
+              description="A full-stack web platform that automates campus placements by connecting students, recruiters, and administrators. Developed using Django, React, and MySQL, it provides secure logins, resume uploads, job management, and application tracking — ensuring a seamless, transparent, and efficient campus recruitment process. Note:The backend for this project is temporarily down due to expired Railway credits."
               ghLink="https://github.com/tanish0310/Placement-Portal"
               demoLink="https://placement-portal-khaki.vercel.app/"              
             />
